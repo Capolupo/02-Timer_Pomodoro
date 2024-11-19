@@ -32,6 +32,11 @@ npm i eslint -D
 npm i @rocketseat/eslint-config - D
 "é uma configuração basicamente criada pela equipe de rocket"
 4.2 criar o arquivo .eslinttrc.json
+4.3 criar o arquivo .eslintigonore
+4.4 eslint.config.js
+
+rodando para o eslint verificar problemas no projeto
+npx eslint src --ext .ts,.tsx
 
 4 - Criar a pasta src>assets (Logos, icones e img do FIGMA)
 4.1 - Criar a pasta assets>icons do FIGMA
